@@ -1,4 +1,4 @@
-# Welcome to My Learning Repository
+# Welcome to Alex's Learning Repository
 
 This repository serves as a space for me to revisit and deepen my understanding of key coding principles. My focus is on honing my programming skills, particularly in areas such as data structures, functions, and utilizing libraries.
 

@@ -6,9 +6,12 @@ This repository serves as a space for me to revisit and deepen my understanding 
 
 The repository is organized into subfolders based on programming languages. Currently, I have a section dedicated to Python, with plans to expand to other languages like JavaScript in the future.
 
-## Supported Languages
+## Language Folders
+
+Where you can find all the files organized by which programming language it is.
 
 1. [Python](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python)
+   1. [Data Structures](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python/Data%20Structures)
 
 ## Progress and Updates
 

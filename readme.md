@@ -8,7 +8,7 @@ The repository is organized into subfolders based on programming languages. Curr
 
 ## Supported Languages
 
-1. [Python](/#Python)
+1. [Python](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python)
 
 ## Progress and Updates
 

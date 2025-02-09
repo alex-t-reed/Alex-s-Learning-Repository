@@ -8,7 +8,7 @@ The repository is organized into subfolders based on programming languages. Curr
 
 ## Language Folders
 
-Where you can find all the files organized by which programming language it is.
+Where you can find all the files organized by which programming language it is. Subfolders are the folders within each language and I'll try to organize this in a way which makes the most sense.
 
 1. [Python](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python)
    1. [Data Structures](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python/Data%20Structures)

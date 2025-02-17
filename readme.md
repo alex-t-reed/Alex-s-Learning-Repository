@@ -36,7 +36,7 @@ Coded the MeMoS Study, aimed at exploring whether intrinsically or extrinsically
   - **User Interface**: The interface consists of a textarea for text input/editing and a div element for displaying the formatted transcript.
   - **Controls**: Provides audio control buttons for managing audio playback and buttons for adding prefixes like "I:" and "P:" for interviewer and participant lines, respectively.
 
-> View the Transcript Edito Code on [GitHub](https://github.com/alex-t-reed/Transcript-Editor).
+> View the Transcript Editor Code on [GitHub](https://github.com/alex-t-reed/Transcript-Editor).
 
 Since then, I've worked on various side projects, some of which are available on my GitHub. Feel free to explore them!
 

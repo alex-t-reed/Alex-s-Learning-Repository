@@ -4,7 +4,7 @@ This repository is a dedicated space for me to revisit and deepen my understandi
 
 ## Repository Structure
 
-The repository is organized into subfolders based on programming languages. Currently, I have a section dedicated to Python, with plans to expand to other languages like JavaScript in the future.
+The repository is organized into subfolders based on programming languages. Currently, I have a section dedicated to Python, with plans to expand to other languages like JavaScript in the future. I also have a LeetCode folder which will then be divided up by programming languages (though I love Python).
 
 ## Folders
 

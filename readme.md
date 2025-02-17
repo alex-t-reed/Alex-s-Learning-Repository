@@ -34,5 +34,6 @@ Since then, I've worked on various side projects, some of which are available on
 
 - LinkedIn: [Alex Reed](https://www.linkedin.com/in/alextreed/)
 - LeetCode: [alex-t-reed](https://leetcode.com/u/alex-t-reed/)
+- Medium: [ar.codes](https://medium.com/@ar.codes)
 - YouTube: [Alex Reed](https://www.youtube.com/@alex_t_reed)
 - Email: [alexreed.atr@gmail.com](mailto:alexreed.atr@gmail.com)

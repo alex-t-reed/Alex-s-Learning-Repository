@@ -16,10 +16,6 @@ Where you can find all the files organized by which programming language it is. 
 2. [LeetCode](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/LeetCode)
    1. [Python](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/LeetCode/Python)
 
-## Backstory
-
-As of February 8, 2025, this repository contains primarily Python-related materials. However, I am actively expanding my knowledge to include additional programming languages.
-
 ## My Coding Journey
 
 - 2016: Began learning Python and JavaScript as a freshman at Santa Rosa High School.

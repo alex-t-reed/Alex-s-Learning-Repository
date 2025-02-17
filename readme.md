@@ -25,8 +25,9 @@ Where you can find all the files organized by which programming language it is. 
 ### Major Projects
 
 - **MeMoS Study (Python with PsychoPy)**:
-Coded the MeMoS Study, aimed at exploring whether intrinsically or extrinsically directed behavior impacts decision strategies for memory-based tasks. The study compares behavior across four performance-based recognition memory tasks: baseline, "do better," memory-focused, and money-focused. Adapted from the classic criterion shifting task by Sara Leslie in 2023, with design planning by Sara Leslie, Courtney Durdle, and Alex Reed. The study is currently being conducted at the UCSB Miller Memory Lab and is supported by a $750 UCSB Undergraduate Research & Creative Activities (URCA) grant.
-View the MeMoS Study Code on GitHub
+Coded the MeMoS Study, aimed at exploring whether intrinsically or extrinsically directed behavior impacts decision strategies for memory-based tasks. The study compares behavior across four performance-based recognition memory tasks: baseline, "do better," memory-focused, and money-focused. Adapted from the classic criterion shifting task by Sara Leslie in 2023, with design planning by Sara Leslie, Courtney Durdle, and Alex Reed. The study was being conducted at the UCSB Miller Memory Lab while supported by a $750 UCSB Undergraduate Research & Creative Activities (URCA) grant.
+
+> View the MeMoS Study Code on [GitHub](https://github.com/alex-t-reed/MeMoS-Study-UCSB-Miller-Memory-Lab).
 
 Since then, I've worked on various side projects, some of which are available on my GitHub. Feel free to explore them!
 

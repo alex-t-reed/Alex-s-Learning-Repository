@@ -12,6 +12,7 @@ Where you can find all the files organized by which programming language it is. 
 
 1. [Python](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python)
    1. [Data Structures](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python/Data%20Structures)
+   2. [TikTok & YouTube Tutorials](https://github.com/alex-t-reed/Alex-s-Learning-Repository/tree/main/Python/TikTok%20&%20YouTube%20%Tutorials)
 
 ## Progress and Updates
 

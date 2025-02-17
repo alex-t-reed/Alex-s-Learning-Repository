@@ -1,7 +1,12 @@
-# LinkedIn (connect with me): https://linkedin.com/in/alex-t-reed
-# TikTok (follow): https://tiktok.com/@ar.codes
-# GitHub (for source code): https://github.com/alex-t-reed
-# YouTube (subscribe): https://www.youtube.com/@alex_t_reed
+"""
+Written by Alex Reed Aparicio
+
+LinkedIn: https://linkedin.com/in/alextreed
+TikTok: https://tiktok.com/@ar.codes
+GitHub: https://github.com/alex-t-reed
+LeetCode: https://leetcode.com/u/alex-t-reed/
+YouTube: https://www.youtube.com/@alex_t_reed
+"""
 
 """
 https://ranaroussi.github.io/yfinance/index.html

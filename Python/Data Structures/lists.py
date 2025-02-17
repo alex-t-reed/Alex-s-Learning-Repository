@@ -1,14 +1,16 @@
 """
-LinkedIn (connect with me): https://linkedin.com/in/alex-t-reed
-TikTok (follow): https://tiktok.com/@ar.codes
-GitHub (for source code): https://github.com/alex-t-reed
-YouTube (subscribe): https://www.youtube.com/@alex_t_reed
+Written by Alex Reed Aparicio
+
+LinkedIn: https://linkedin.com/in/alextreed
+TikTok: https://tiktok.com/@ar.codes
+GitHub: https://github.com/alex-t-reed
+LeetCode: https://leetcode.com/u/alex-t-reed/
+YouTube: https://www.youtube.com/@alex_t_reed
 """
 
 """
 # Lists in Python
 # I'm referencing: https://docs.python.org/3/tutorial/datastructures.html
-# Add me (Alex Reed) on LinkedIn: https://www.linkedin.com/in/alextreed/
 """
 
 fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']

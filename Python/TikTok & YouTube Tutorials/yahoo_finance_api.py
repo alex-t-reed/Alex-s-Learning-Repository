@@ -19,7 +19,7 @@ pip install yfinance
 # Importing the yfinance library to fetch financial data
 
 # Get the ticker for Apple (AAPL)
-import yfinance as yf
+import yfinance as yf # type: ignore
 dat = yf.Ticker('AAPL')
 
 # Print out all the information available for the AAPL stock

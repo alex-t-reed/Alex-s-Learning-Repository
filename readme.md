@@ -29,6 +29,15 @@ Coded the MeMoS Study, aimed at exploring whether intrinsically or extrinsically
 
 > View the MeMoS Study Code on [GitHub](https://github.com/alex-t-reed/MeMoS-Study-UCSB-Miller-Memory-Lab).
 
+- **Transcript Editor (JavaScript)**:  
+  Transcript Editor is a Node.js Express app originally designed for creating transcripts for research purposes for the PADRES Lab at UCSB. It offers several features to facilitate the transcription process:
+  - **Formatting**: Automatically makes interviewer lines bold when question marks are used in conjunction with timestamps.
+  - **Annotations**: Allows users to add comments, annotations, or descriptions within the transcript using square brackets (e.g., [LAUGHTER]).
+  - **User Interface**: The interface consists of a textarea for text input/editing and a div element for displaying the formatted transcript.
+  - **Controls**: Provides audio control buttons for managing audio playback and buttons for adding prefixes like "I:" and "P:" for interviewer and participant lines, respectively.
+
+> View the Transcript Edito Code on [GitHub](https://github.com/alex-t-reed/Transcript-Editor).
+
 Since then, I've worked on various side projects, some of which are available on my GitHub. Feel free to explore them!
 
 ### Current Role

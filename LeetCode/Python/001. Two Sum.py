@@ -36,8 +36,8 @@ class Solution:
 if __name__ == "__main__":
     nums = [2,7,11,15]
     target = 9
-    solution = Solution() 
-    assert solution.twoSum(nums=nums, target=target) == [0,1]
+    solution = Solution() # Create new instance of Solution
+    assert solution.twoSum(nums=nums, target=target) == [0,1] # You shouldn't see anything if you run this code as I've tested the function
 
 """
 1. Two Sum

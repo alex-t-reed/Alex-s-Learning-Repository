@@ -1,6 +1,6 @@
 # Welcome to Alex's Learning Repository
 
-This repository is a dedicated space for me to revisit and deepen my understanding of key coding principles. My focus is on honing my programming skills, particularly in areas such as data structures, functions, and library utilization. I also may include files here for YouTube Shorts and TikTok tutorials that I make! I enjoy teaching others and it also strengthens my own understanding.
+This repository is a dedicated space for me to revisit and deepen my understanding of key coding principles. My focus is on honing my programming skills, particularly in areas such as data structures, algorithms, and best practices. I also may include files here for YouTube Shorts and TikTok tutorials that I make! I enjoy teaching others and it also strengthens my own understanding.
 
 ## Repository Structure
 

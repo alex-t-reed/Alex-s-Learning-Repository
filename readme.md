@@ -21,6 +21,7 @@ Where you can find all the files organized by which programming language it is. 
 As of February 8, 2025, this repository contains primarily Python-related materials. However, I am actively expanding my knowledge to include additional programming languages.
 
 ## My Coding Journey
+
 - 2016: Began learning Python and JavaScript as a freshman at Santa Rosa High School.
 - Middle School: Introduced to HTML and CSS through a yearbook class project. Built simple websites for teachers using Weebly.
 - Scratch: Learned basic programming concepts like functions and operations, sparking my interest in coding.

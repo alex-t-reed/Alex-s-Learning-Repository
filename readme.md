@@ -25,4 +25,5 @@ My coding journey began even earlier in middle school, where I was introduced to
 ## Contact Information
 
 - LinkedIn: [Alex Reed](https://www.linkedin.com/in/alextreed/)
+- YouTube: [Alex Reed](https://www.youtube.com/@alex_t_reed)
 - Email: [alexreed.atr@gmail.com](mailto:alexreed.atr@gmail.com)

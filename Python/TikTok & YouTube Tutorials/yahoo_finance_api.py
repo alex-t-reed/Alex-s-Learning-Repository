@@ -2,10 +2,11 @@
 Written by Alex Reed Aparicio
 
 LinkedIn: https://linkedin.com/in/alextreed
-TikTok: https://tiktok.com/@ar.codes
-GitHub: https://github.com/alex-t-reed
-LeetCode: https://leetcode.com/u/alex-t-reed/
 YouTube: https://www.youtube.com/@alex_t_reed
+LeetCode: https://leetcode.com/u/alex-t-reed/
+Medium: https://medium.com/@ar.codes
+GitHub: https://github.com/alex-t-reed
+TikTok: https://tiktok.com/@ar.codes
 """
 
 """
@@ -16,15 +17,17 @@ pip install yfinance
 """
 
 # Importing the yfinance library to fetch financial data
-import yfinance as yf
 
 # Get the ticker for Apple (AAPL)
+import yfinance as yf
 dat = yf.Ticker('AAPL')
 
 # Print out all the information available for the AAPL stock
 print(dat.info)
 
 # Function to get the current stock price for a given stock ticker
+
+
 def get_stock_price(stockTicker: str):
     if yf.Ticker(stockTicker).info:
         # Return the regular market price if available
@@ -32,7 +35,8 @@ def get_stock_price(stockTicker: str):
     else:
         # Return None if information is not available
         return None
-    
+
+
 # Print the stock price for NVIDIA (NVDA)
 print(get_stock_price('NVDA'))
 
